@@ -33,7 +33,6 @@ header.home {
     align-items: center;
     justify-content: space-between;
     padding: 0px 40px;
-    font-size: 20px;
 }
 
 nav.inicio ul {
@@ -44,6 +43,7 @@ nav.inicio ul {
 
 nav.inicio a {
     text-decoration: none;
+    font-size: 20px;
     color: black;
     font-weight: 500;
     transition: color 0.3s ease;
